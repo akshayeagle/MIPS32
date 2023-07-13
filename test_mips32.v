@@ -1,27 +1,5 @@
 `timescale 1ns / 1ps
-
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   10:52:38 07/05/2023
-// Design Name:   pipe_MIPS32
-// Module Name:   /home/dcodelab/Desktop/Verilog project/MIPS32/test_mips32.v
-// Project Name:  MIPS32
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: pipe_MIPS32
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-////////////////////////////////////////////////////////////////////////////////
-
+//to perform random ALU R5= (R4=((R1=10)+(R2=20))+R3=25)
 module test_mips32;
 
 	// Inputs
